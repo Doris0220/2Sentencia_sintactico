@@ -1,0 +1,37 @@
+i=1
+
+def fond():
+  if token==10:
+    leer(token)
+  else:
+    error()
+
+  if token ==50:
+    leer(token)
+  else:
+    error()
+
+  paleta()
+  
+  if token ==50:
+    leer(token)
+  else:
+    error()
+
+def paleta():
+  if token = 20:
+    ler(token)
+  else:
+    error()
+  while(i>6)
+    hex()
+    i=i+1
+
+def hex():
+  if token in [1,2,3,4,5,6,7,8,9,0]:
+    leer (token)
+  else:
+    if token in ['A','B','C','D','E','F']:
+      leer (token)
+    else:
+      error()
