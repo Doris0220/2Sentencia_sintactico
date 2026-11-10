@@ -1,0 +1,1 @@
+# 2Sentencia_sintactico
